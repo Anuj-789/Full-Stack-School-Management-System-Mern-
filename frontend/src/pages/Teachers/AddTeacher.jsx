@@ -45,7 +45,7 @@ function AddTeacher({ onClose, refreshTeachers }) {
     if (!validate()) return;
 
     try {
-      await axios.post("http://localhost:5000/teachers/addteacher", {
+      await axios.post("https://backend-full-stack-school-management.onrender.com/teachers/addteacher", {
         ...formData,
         age: Number(formData.age),
         salary: Number(formData.salary),
