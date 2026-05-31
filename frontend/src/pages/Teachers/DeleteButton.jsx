@@ -2,7 +2,7 @@ function DeleteButton({ teacherId, onSuccess }) {
   const handleDelete = async () => {
     try {
       await fetch(
-        `http://localhost:5000/teachers/deleteteacher/${teacherId}`,
+        `https://backend-full-stack-school-management.onrender.com/teachers/deleteteacher/${teacherId}`,
         { method: "DELETE" }
       );
 
