@@ -15,7 +15,7 @@ function EditTeacher({ teacher, onClose, refreshTeachers }) {
   const handleUpdate = async () => {
     try {
       await axios.put(
-        `http://localhost:5000/teachers/updateteacher/${teacher.teacherId}`,
+        `https://backend-full-stack-school-management.onrender.com/teachers/updateteacher/${teacher.teacherId}`,
         formData
       );
 
