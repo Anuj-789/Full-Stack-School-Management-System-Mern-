@@ -7,7 +7,7 @@ This project is designed to manage **students, teachers, schedules, and transpor
 
 ## 🔗 Live Demo
 
-👉 https://full-stack-school-management-system-mern-nkjgheurf.vercel.app/
+👉 https://full-stack-school-management-system-pi.vercel.app/
 
 ---
 
