@@ -15,7 +15,7 @@ const [showEditModal, setShowEditModal] = useState(false);
 
   // ALL DATA
   const loadTeachers = () => {
-    fetch("http://localhost:5000/teachers/getteacherdata")
+    fetch("https://backend-full-stack-school-management.onrender.com/teachers/getteacherdata")
       .then((res) => res.json())
       .then((data) => {
         setTeachers(data.data);
