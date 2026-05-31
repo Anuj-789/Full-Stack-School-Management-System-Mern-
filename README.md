@@ -7,8 +7,8 @@ This project allows managing teachers/students with full CRUD operations.
 
 ## 🚀 Live Demo
 
-- 🌐 Frontend: https://your-frontend-link.com  
-- ⚙️ Backend API: https://backend-full-stack-school-management.onrender.com
+- 🌐: https://full-stack-school-management-system-mern-nkjgheurf.vercel.app/
+
 
 ---
 
