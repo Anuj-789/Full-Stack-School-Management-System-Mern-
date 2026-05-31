@@ -51,7 +51,7 @@ const validate = () => {
   if (!validate()) return; // ❌ stop submit if errors
 
   try {
-    await axios.post("http://localhost:5000/students/addstudent", formData);
+    await axios.post("https://backend-full-stack-school-management.onrender.com/students/addstudent", formData);
 
     alert("Student Added Successfully");
 
