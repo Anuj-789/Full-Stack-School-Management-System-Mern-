@@ -169,8 +169,8 @@ frontend/
 │   │   ├── Schedules/
 │   │   │   └── Schedule.jsx
 │
-│   ├── App.jsx
-│   └── main.jsx
+├── App.jsx
+└── main.jsx
 ```
 
 ---
