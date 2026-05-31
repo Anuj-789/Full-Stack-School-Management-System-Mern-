@@ -21,7 +21,7 @@ function EditStudent({ student, onClose, refreshStudents }) {
 
     try {
       await axios.put(
-        `http://localhost:5000/students/updatestudent/rollno/${student.rollno}`,
+        `https://backend-full-stack-school-management.onrender.com/students/updatestudent/rollno/${student.rollno}`,
         formData
       );
 
