@@ -16,7 +16,7 @@ const [editStudent, setEditStudent] = useState(null);
   // Fetch students
   const fetchStudents = async () => {
     try {
-      const res = await axios.get("http://localhost:5000/students/getstudentdata");
+      const res = await axios.get("https://backend-full-stack-school-management.onrender.com/students/getstudentdata");
       setStudents(res.data.data);
     } catch (error) {
       console.log(error);
