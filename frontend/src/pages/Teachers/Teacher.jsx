@@ -30,7 +30,7 @@ const [showEditModal, setShowEditModal] = useState(false);
   const searchTeacher = async () => {
     try {
       const res = await fetch(
-        `http://localhost:5000/teachers/getteacherdata/${searchId}`
+        `https://backend-full-stack-school-management.onrender.com/teachers/getteacherdata/${searchId}`
       );
 
       const data = await res.json();
