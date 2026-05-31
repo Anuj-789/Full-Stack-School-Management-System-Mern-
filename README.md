@@ -255,15 +255,12 @@ npm run dev
 
 ---
 
-## 👨‍💻 Author
+### 🔗 Connect with Me
 
-**Anuj Gupta**
+[![💼 LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anuj-k-549184327)
+&nbsp;&nbsp;
+[![🐙 GitHub](https://img.shields.io/badge/-GitHub-gray?style=for-the-badge&logo=github)](https://github.com/Anuj-789)
+&nbsp;&nbsp;
+[![✉️ Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:anuj437795@example.com)
 
-- GitHub: https://github.com/Anuj-789
-- Live Project: https://full-stack-school-management-system-mern-nkjgheurf.vercel.app/
-
----
-
-## ⭐ Support
-
-If you like this project, don’t forget to ⭐ star this repository.
+### 🌟Thanks for checking out this project! Hope you enjoyed exploring it 😊
